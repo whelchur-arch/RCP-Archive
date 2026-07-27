@@ -6,3 +6,5 @@ The Archive Index Terminal is for a project that is heavily based on the SCP Fou
 This project is proprietary and is not open source. The application may be
 used for personal purposes, but the source code may not be copied, modified,
 redistributed, or used in another project. See LICENSE.txt.
+
+The RCP Archive and the Archive Index Terminal are © 2026 Whelchur, all rights reserved — see LICENSE. The application is built on Electron, which is MIT-licensed; see THIRD-PARTY-NOTICES. The LICENSE file inside the packaged builds is Electron's, not this project's.
