@@ -19,8 +19,7 @@ The setting takes obvious inspiration from the SCP Foundation, but the world, th
 ## The application
 
 The Archive Index Terminal is an Electron desktop application that indexes and reads the archive. Documents are held as PDFs and browsed by designation, class, and clearance level, as personnel of the organization would encounter them.
-
-<!-- Fill in your feature list here — search, clearance gating, navigation, etc. -->
+The Terminal includes several features such as changeable themes, clearance gating, a visual reference archive, global statistics and way more. 
 
 ## A note on how this was built
 
