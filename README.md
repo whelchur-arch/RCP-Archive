@@ -14,7 +14,7 @@ The documents are written to be read the way real institutional records are read
 
 The setting takes obvious inspiration from the SCP Foundation, but the world, the organization, and every document in it are original.
 
-*Currently 277 documents across twelve classes.*
+*Currently 286 documents across twelve classes.*
 
 ## The application
 
