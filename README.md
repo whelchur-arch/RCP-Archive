@@ -14,8 +14,6 @@ The documents are written to be read the way real institutional records are read
 
 The setting takes obvious inspiration from the SCP Foundation, but the world, the organization, and every document in it are original.
 
-*Currently 286 documents across twelve classes.*
-
 ## The application
 
 The Archive Index Terminal is an Electron desktop application that indexes and reads the archive. Documents are held as PDFs and browsed by designation, class, and clearance level, as personnel of the organization would encounter them.
