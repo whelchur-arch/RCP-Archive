@@ -12,7 +12,10 @@ The archive is the setting. There is no narrator and no outside perspective — 
 
 The documents are written to be read the way real institutional records are read: sideways, in fragments, against each other. An entry states a figure another entry quietly contradicts. A branch enters dissent against a classification and the dissent is retained rather than resolved. Much of what matters is in what the archive declines to explain.
 
-The setting takes obvious inspiration from the SCP Foundation, but the world, the organization, and every document in it are original.
+## On the resemblance to SCP
+The name, the motto, and the concept of an anomaly as a category of document are taken directly from the SCP Foundation, and that debt is stated here rather than left for a reader to notice on their own. Past that, the resemblance ends. The calendar, the geography, the elemental system, the Council, the Grand Sovereign, the RCP's own institutional history, and the archive's particular discipline — recording a contradiction instead of resolving it, one entry quietly disputing another's figures, documents that decline to explain — are not inherited from anywhere.
+
+The RCP Archive is also not built around anomalies the way SCP is. They're one category of document among several; personnel records, engineering specifications, incident reports, and reference documents make up most of what's here, and most of those have nothing to do with anomalies at all.
 
 ## The application
 
