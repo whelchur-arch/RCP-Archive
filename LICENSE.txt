@@ -1,0 +1,26 @@
+Copyright (c) 2026 Whelchur. All rights reserved.
+
+THE RCP ARCHIVE
+
+This repository contains two kinds of work:
+
+1. The Archive Index Terminal application source code.
+2. The RCP Archive itself — the documents, their text, the RCP
+   organization, the planet Exomania, and all associated names,
+   classifications, characters and settings.
+
+No permission is granted to copy, modify, distribute, publish,
+sublicense, sell, or create derivative works from any part of this
+repository, in whole or in part, by any means, for any purpose,
+commercial or otherwise.
+
+You may read this repository and run the application for your own
+personal use. Nothing further is permitted without prior written
+permission from the copyright holder.
+
+Third-party components redistributed with this work remain under their
+own licenses. See THIRD-PARTY-NOTICES.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE WORK OR ITS USE.
