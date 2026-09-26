@@ -1,26 +1,123 @@
-Copyright (c) 2026 Whelchur. All rights reserved.
+Copyright (c) 2026 Whelchur (whelchur-arch). All rights reserved.
 
 THE RCP ARCHIVE
 
-This repository contains two kinds of work:
+This license covers:
 
-1. The Archive Index Terminal application source code.
-2. The RCP Archive itself — the documents, their text, the RCP
-   organization, the planet Exomania, and all associated names,
-   classifications, characters and settings.
+  - the Archive Index Terminal application, including its source
+    code; and
+  - the RCP Archive: its documents, their text and artwork, the RCP
+    organization, the planet Exomania, and all associated names,
+    classifications, characters, settings and lore.
 
-No permission is granted to copy, modify, distribute, publish,
-sublicense, sell, or create derivative works from any part of this
-repository, in whole or in part, by any means, for any purpose,
-commercial or otherwise.
+Together, these are "the Work". This license applies to every version
+of the Work.
 
-You may read this repository and run the application for your own
-personal use. Nothing further is permitted without prior written
-permission from the copyright holder.
 
-Third-party components redistributed with this work remain under their
-own licenses. See THIRD-PARTY-NOTICES.
+1. GENERAL
+
+Except as allowed in this license, or with permission under section 7,
+you may not copy, modify, distribute, publish, sublicense, sell, or
+create derivative works from any part of the Work.
+
+
+2. PERSONAL USE
+
+You may read this repository, download the application from its
+official release pages, and run it for your own personal use.
+
+
+3. SHARING DOCUMENTS
+
+You may quote, share and reproduce individual documents from the RCP
+Archive, in part or in full, provided that you:
+
+  (a) credit the RCP Archive;
+  (b) do not sell them or charge for access to them; and
+  (c) do not alter a document and present it as the original.
+
+Within the official RCP Community Discord server, and in private
+conversations, you may share documents without crediting them, as
+long as (b) and (c) are followed.
+
+
+4. VIDEOS AND STREAMS
+
+You may make videos, streams and similar content about the RCP
+Archive, including showing complete documents and the application in
+use. You may earn money from this content through advertising,
+sponsorships or donations, provided that you credit the RCP Archive
+and do not present the content as official or endorsed.
+
+
+5. FAN WORKS
+
+You may create, share and sell fan art and fan writing based on the
+RCP Archive, provided that it does not reproduce complete documents
+and is not presented as official.
+
+
+6. RESTRICTIONS THAT ALWAYS APPLY
+
+Regardless of sections 2 to 5:
+
+  (a) You may not publish, host or mirror the application, or a
+      collection of the RCP Archive's documents (the whole archive or
+      a substantial part of it), on any website, platform or service,
+      such as GitHub, GitLab, itch.io, file-hosting sites or mirrors.
+      Link to the official releases instead. This does not restrict
+      videos made under section 4, or viewing and forking this
+      repository through GitHub's own features, which GitHub's Terms
+      of Service allow.
+  (b) You may not use any part of the Work in games, mods,
+      applications or other software.
+  (c) You may not use any part of the Work to train, fine-tune or
+      evaluate machine learning or AI models, or include it in
+      datasets for that purpose.
+  (d) You may not present anything as an official RCP Archive work,
+      or as endorsed by the copyright holder, unless it is.
+
+
+7. PERMISSION FOR OTHER USES
+
+Any use not allowed by this license requires prior written permission
+from the copyright holder. Request it by direct message to the
+copyright holder on Discord (username: whelchur), through the official
+RCP Community Discord server linked in the README. A direct message
+from that account counts as written permission.
+
+Permission covers only what it explicitly states. Unless it states
+otherwise, it is personal, non-exclusive and non-transferable.
+
+
+8. WITHDRAWAL
+
+The copyright holder may withdraw any permission in sections 3 to 5,
+or any permission given under section 7 unless it states otherwise,
+for a specific work, video or use, by notifying the person
+responsible. After notice, that use is no longer permitted.
+Withdrawal does not make earlier use unlawful.
+
+If you break the terms of this license, the copyright holder may end
+the permissions it gives you.
+
+
+9. THIRD-PARTY COMPONENTS
+
+The application includes third-party components, such as Electron and
+Chromium, which remain under their own licenses. Those licenses are
+included with the application.
+
+
+10. NO WARRANTY
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE WORK OR ITS USE.
+
+
+11. OTHER
+
+This license does not limit anything the law already allows without
+permission, such as fair use or quotation. If any part of this license
+is found unenforceable, the rest remains in effect.
