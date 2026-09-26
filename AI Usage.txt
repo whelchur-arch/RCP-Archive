@@ -2,7 +2,7 @@ AI is currently used in the RCP Archive, the parts where it is used is listed he
 Certain sketches within the Visual Reference Archive.
 RCP Insignia, Full Seal, App Icon and some elements within the app itself.
 Code of the app itself: most of the app was written with AI while I learn HTML, CSS and JavaScript, and AI is still used for debugging and changing certain parts of the code quicker.
-Drafting many documents from my ideas, which I then edit, add to and cut from, extending the writing of others, and finding contradictions/debugging the core source documents themselves. (NOTE: Em-dashes are used intentionally within the archive)
+Drafting many documents from my ideas, which I then edit, add to and cut from, extending the writing of others, and finding contradictions/debugging the core source documents themselves, many documents, especially earlier ones, were kept largely as drafted, i've been editing more over time. (NOTE: Em-dashes are used intentionally within the archive)
 
 AI does not decide canon or terminology. The ideas are mostly mine, and nothing enters the archive unless I have edited and approved it. AI is only there to assist in the making, make the process faster and reduce the number of errors within the archive.
 
