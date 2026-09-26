@@ -1,14 +1,14 @@
 AI is currently used in the RCP Archive, the parts where it is used is listed here:
 Certain sketches within the Visual Reference Archive.
 RCP Insignia, Full Seal, App Icon and some elements within the app itself.
-Code of the app itself, mostly because of debugging and changing certain parts of the code quicker.
-Extending the writing of some documents and finding contradictions/debugging the core source documents themselves. (NOTE: Em-dashes are used intentionally within the archive)
+Code of the app itself: most of the app was written with AI while I learn HTML, CSS and JavaScript, and AI is still used for debugging and changing certain parts of the code quicker.
+Drafting many documents from my ideas, which I then edit, add to and cut from, extending the writing of others, and finding contradictions/debugging the core source documents themselves. (NOTE: Em-dashes are used intentionally within the archive)
 
-AI Does not make canon, terminology or documents, those are all made by me and AI is only there to assist in the making and make the process faster and reduce the number of errors within the archive.
+AI does not decide canon or terminology. The ideas are mostly mine, and nothing enters the archive unless I have edited and approved it. AI is only there to assist in the making, make the process faster and reduce the number of errors within the archive.
 
 Other than those, AI isnt used in any other part of the Archive, im currently working on learning the languages for the app to be able to fully write them myself but i'd most likely still use AI for debugging then anyway,
 the RCP Insignia (the newer, flat one) most likely wont be changed since there is no need to change it besides it having C2PA Content Credentials, i personally want to change all the other AI components from the archive since i made most of them at the start,
 if i can find anyone that is willing to give a free/cheap price for better sketches with the same feel i'd happily accept.
 
-Generative AI will never ever again be used in the RCP, all new images will be made by real people (For example, the WIP personnel identification card and Exomania's map were all made by me, with zero AI assistance in their making)
+Generative AI will never again be used for images in the RCP. All new images will be made by real people (For example, the WIP personnel identification card and Exomania's map were all made by me, with zero AI assistance in their making)
 Current AI Sketches and images will be removed as time passes and get replaced by human made content.
